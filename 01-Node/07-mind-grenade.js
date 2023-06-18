@@ -6,3 +6,4 @@ function addValues() {
 }
 
 addValues();
+console.log("num1")
