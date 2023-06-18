@@ -3,6 +3,7 @@ module.exports.items = ["item1", "item2"];
 
 // Object
 const person = {
-    name: "fakher",
+    name: "zain",
 }
 module.exports.singlePerson = person;
+console.log("")
