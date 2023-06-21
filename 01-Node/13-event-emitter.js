@@ -10,4 +10,5 @@ customEmitter.on('response', () => {
     console.log(`some other logic here`);
 });
 
-customEmitter.emit('response', 'fakher', 22);
+customEmitter.emit('response', 'zain', 22);
+console.log(customEmitter);
